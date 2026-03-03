@@ -208,9 +208,5 @@ python src/train.py --epochs 50 --batch_size 32 --img_size 224
 
 ---
 
-## 📬 Contact
 
-**Cruicil** | MS Data Science & Analytics, SUNY Polytechnic Institute
-🔗 [LinkedIn](https://www.linkedin.com/in/krushil-bhojani/) | 🐙 [GitHub](https://github.com/Krupsbhojani)
 
-*Completed as part of DSA 507 (Machine Learning) coursework.*
